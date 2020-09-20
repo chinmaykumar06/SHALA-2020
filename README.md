@@ -4,7 +4,7 @@ During the COVID-19 pandemic, a team of volunteers comprising professors, indust
 
 # TOPICS
 
-Data Science (DS): Getting started, Basic data understanding, Improving plots, Basic statistics.
+[Data Science (DS)](https://github.com/chinmaykumar06/SHALA-2020/tree/master/DS_Assignments): Getting started, Basic data understanding, Improving plots, Basic statistics.
 
 Machine Learning (ML): Introduction to ML, Decision trees, Bayesian decision theory, Linear models, Kernelization, Feature selection and engineering, Dense and shallow neural networks, Advanced topics in neural networks, Clustering, Model Explainability.
 
